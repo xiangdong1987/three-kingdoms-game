@@ -3,20 +3,6 @@
   padding-top: 50px;
 }
 
-.enemies {
-  display: flex;
-  justify-content: space-around;
-  margin-bottom: 20px;
-}
-
-.enemy {
-  border: 1px solid black;
-  padding: 10px;
-  margin: 10px;
-}
-
-.boss {
-  border: 2px solid red;
-  padding: 20px;
-  margin: 20px;
+h1 {
+  text-align: center;
 }
